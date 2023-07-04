@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\practicedForException-try-catch.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\practicedForException-try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\practicedForException-try-catch.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\practicedForException-try-catch.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\practicedForException-try-catch.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\bin\Debug\net6.0\practicedForException-try-catch.exe
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\bin\Debug\net6.0\practicedForException-try-catch.deps.json
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\bin\Debug\net6.0\practicedForException-try-catch.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\bin\Debug\net6.0\practicedForException-try-catch.dll
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\bin\Debug\net6.0\practicedForException-try-catch.pdb
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\practicedForException-try-catch.dll
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\refint\practicedForException-try-catch.dll
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\practicedForException-try-catch.pdb
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\practicedForException-try-catch.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\practicedForException-try-catch\practicedForException-try-catch\obj\Debug\net6.0\ref\practicedForException-try-catch.dll
